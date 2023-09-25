@@ -1,4 +1,4 @@
-создать ветку со своей: git branch surname
+создать ветку: git branch surname
 
 переключиться в новую ветку: git checkout surname
 
